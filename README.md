@@ -4,5 +4,25 @@
 # Después de esto se dedicaron líneas del código para modificar los datos cargados.  Precisamente se modificó la esperanza de vida que hubo en Canadá en el año 1957 y la establecemos como 69.96. Sin embargo, como inicialmente los datos cargados coinciden con la modificación establecida no habrá ningún cambio. De hecho, se puede observar que la gráfica es exactamente igual que la realizada anteriormente debido a que el cambio en el valor de la esperanza de vida coincidía con el valor anterior por lo que de igual manera se observa el aumento de la esperanza de vida en Canadá. En caso de modificar el valor de 69.96 (esperanza de vida) por otro valor se modifiría la esperanza de vida para los datos cargados.
 # Finalmente se filtraron los datos de 3 países (México, Estados Unidos y Canadá) para realizar un análisis comparativo. Esta gráfica nos permite comparar las esperanzas de vida de tres países : México, Canadá y Estados Unidos. Podemos ver que México tiene una esperanza de vida mucho menor a lo largo de los años estudiados, de 52 a 61 años a comparación de una esperanza de vida mayor a 65 años para Estados Unidos y Canadá. Esto se puede explicar debido a un mayor grado de desarrollo de estos países a comparación de México que se encuentra desde esos años en vías de desarrollo. Sin embargo, es importante notar que México presenta un aumento  mucho mayor en la esperanza de vida a comparación de los otros países puesto que presenta una pendiente más elevada. Es decir, que aumenta en casi 10 años mientras que los otros países aumentan su esperanza de vida en 4-5 años. 
 
+#Tarea Reproducibilidad
+#Tarea
+#Realizar un fork del repositorio: https://github.com/said3427/Tarea_Reproducibilidad_Tec a un repo local por equipo.
+
+#Comentar el archivo Code.R (Recuerda que para comentar código en R se usa #).
+
+#Agregar el o los paquetes faltantes para la reproducibilidad del código en el archivo install.R
+
+#Quitar las intrucciones de la tarea en el archivo README.md, agregar una breve descripción del código y gráficos que se generan.
+
+#Realizar un pull request o mandar un mail con su repo a saidmunozmontero@tec.mx
+
+#Rstudio
+#En la siguiente liga pueden verificar que todo funcione (deben cambiar el nombre de usuario de github said3427 por el suyo)
+
+#RStudio: Binder
+
+#Dudas
+#saidmunozmontero@tec.mx
+#said3427@gmail.com
 
 
